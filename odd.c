@@ -9,6 +9,6 @@ int main(){
     }
         no++;
     }
-
+  printf("this is pushed");
     return 0;
 }
